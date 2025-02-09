@@ -1,0 +1,18 @@
+.navbar-nav {
+    text-align: center;
+}
+.nav-item {
+    margin: 5px 0;
+}
+.list-group-item {
+    text-align: center;
+}
+.reference-img {
+    max-width: 100%;
+    height: auto;
+}
+@media (max-width: 768px) {
+    .row .col-md-4 {
+        margin-bottom: 15px;
+    }
+}
